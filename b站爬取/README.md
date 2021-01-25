@@ -1,0 +1,3 @@
+# DataScienceProject
+这是一个爬取b站数据的程序
+全部数据在data文件夹中
